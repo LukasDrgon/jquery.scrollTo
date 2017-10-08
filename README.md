@@ -5,6 +5,7 @@ Lightweight, cross-browser and highly customizable animated scrolling with jQuer
 [![](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/2081384/fleslerjquery-scrollTo-on-GitHub)
 [![GitHub version](https://badge.fury.io/gh/flesler%2Fjquery.scrollTo.svg)](http://badge.fury.io/gh/flesler%2Fjquery.scrollTo)
 [![libscore](http://img.shields.io/badge/libscore-31656-brightgreen.svg?style=flat-square)](http://libscore.com/#jQuery.fn.scrollTo)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/jquery.scrollto/badge)](https://www.jsdelivr.com/package/npm/jquery.scrollto)
 
 ## Installation
 The plugin requires jQuery 1.8 or higher.
